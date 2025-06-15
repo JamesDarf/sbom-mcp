@@ -1,0 +1,20 @@
+
+# Python __pycache__ 디렉토리
+__pycache__/
+*.pyc
+
+# 가상환경 폴더
+venv/
+
+# 시스템 파일
+.DS_Store
+
+# 환경파일 (만약 이후 추가된다면)
+.env
+
+# VSCode 설정 (선택적)
+.vscode/
+
+# 기타 캐시
+*.log
+*.sqlite3

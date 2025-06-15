@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+cyclonedx-bom
+pydantic
+python-multipart
